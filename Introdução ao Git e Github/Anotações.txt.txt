@@ -1,0 +1,3 @@
+Link para download do Git: https://git-scm.com/download/win
+
+O Git Basdh é um terminal extendido para utilizaro uso do Git.
